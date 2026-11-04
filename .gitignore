@@ -1,0 +1,13 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+/generated/prisma
+
+# OS / editor / local tooling
+.DS_Store
+.vscode/
+.agents/
+.claude/
+.windsurf/
+skills-lock.json
